@@ -1,4 +1,4 @@
-% Object Oriented Concurrent Programming - Homework-I
+%  
 % @author NubilaPardus
 %
 n = [20
