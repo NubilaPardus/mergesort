@@ -1,5 +1,4 @@
 # mergesort
- Merge Sort
 Merge Sort simply divides the array to be sorted continuously by two elements 
 until they reach the emaining pieces. Then they merge these pieces into themselves. 
 In this respect, it’s based on the "divide and conquer" paradigm.
